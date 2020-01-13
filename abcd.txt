@@ -1,2 +1,7 @@
 Hello Word!!!
 Welcome to the Devops 1st GIT
+
+
+
+
+Conflict Temp_01
