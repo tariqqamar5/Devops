@@ -4,4 +4,8 @@ Welcome to the Devops 1st GIT
 
 
 
+<<<<<<< HEAD
 CONFLIT 02
+=======
+Conflict Temp_01
+>>>>>>> fc16f252a9eeea09427cb0eac0651d3dcd760208
